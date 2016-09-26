@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/rkkim/pen/XKgGGo.
+For a live demo click -->> http://codepen.io/rkkim/pen/XKgGGo.
 
  
