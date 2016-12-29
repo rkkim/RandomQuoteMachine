@@ -1,3 +1,3 @@
-For a live demo click -->> http://codepen.io/rkkim/pen/XKgGGo.
+click -> http://richard-kim.me/randomquote/index.html
 
  
